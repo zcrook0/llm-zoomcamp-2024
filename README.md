@@ -3,6 +3,8 @@ Course walkthrough: Large Language Models Zoomcamp 2024 (by DataTalksClub).
 
 This repostiroy stores my code and ntoes for the course.
 
+This course is nice!
+
 ~ is shrot hand for /user/home
 / is root directroy
 
