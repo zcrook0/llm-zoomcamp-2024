@@ -23,3 +23,4 @@ Comands:
 "restart" - restart terminal.
 "pwd" - gives curent directory
 
+Now im setting up VS code.
